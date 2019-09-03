@@ -1,0 +1,19 @@
+body {
+    background-color: #F8F8F8;
+}
+
+label {
+    font-weight: bold;
+}
+
+#div-display {
+    margin-top: 20px;
+}
+
+#div-display-info {
+    margin-top: 20px;
+}
+
+#title-app {
+    margin-top: 10px;
+}
